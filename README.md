@@ -1,4 +1,4 @@
-<plaintext>
+
 jquery.mo
 By Nip4Fun
 Модальное окно v 1.1
@@ -13,7 +13,7 @@ By Nip4Fun
 
 Пример:
 
-
+<plaintext>
 <a href="#" data-mo-id="1" data-animation="fadeAndPop">
 	Появление и скачек(fade pop)
 </a>
