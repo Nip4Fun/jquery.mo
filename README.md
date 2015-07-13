@@ -1,7 +1,7 @@
-<h1>jquery.mo</h1>
+<h1>jquery.mo v 1.1</h1>
 
-<h2>By Nip4Fun</h2>
-Модальное окно v 1.1
+<h3>By Nip4Fun</h3>
+Модальное окно 
 
 Все примеры описаны в demo.html
 
