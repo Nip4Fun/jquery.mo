@@ -15,11 +15,10 @@ By Nip4Fun
 
 
 <a href="#" data-mo-id="1" data-animation="fadeAndPop">
-			Появление и скачек(fade pop)
-</a>	
+	Появление и скачек(fade pop)
+</a>
 <div id="1" class="mo">
 	<a class="close-mo">&#215;</a>
 		<h1>Заглавный текст</h1>
 			<p>просто текст для проверки модального окна(fadeAndPop)</p>
 </div>
-</plaintext>
