@@ -1,6 +1,6 @@
-jquery.mo
+<h1>jquery.mo</h1>
 
-By Nip4Fun
+<h2>By Nip4Fun</h2>
 Модальное окно v 1.1
 
 Все примеры описаны в demo.html
