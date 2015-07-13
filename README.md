@@ -1,3 +1,4 @@
+<plaintext>
 jquery.mo
 By Nip4Fun
 Модальное окно v 1.1
@@ -11,6 +12,8 @@ By Nip4Fun
 2) Выбрать анимацию в data-animation одну из (fadeAndPop/fade/none), если не указывать data-animation, то по умолчанию будет none.
 
 Пример:
+
+
 <a href="#" data-mo-id="1" data-animation="fadeAndPop">
 			Появление и скачек(fade pop)
 </a>	
@@ -19,3 +22,4 @@ By Nip4Fun
 		<h1>Заглавный текст</h1>
 			<p>просто текст для проверки модального окна(fadeAndPop)</p>
 </div>
+</plaintext>
