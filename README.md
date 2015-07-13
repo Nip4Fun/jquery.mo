@@ -7,19 +7,36 @@
 
 На данный момент работают 3 разных эфекта вывода.
 
-Что бы обвизать комплекс картинок\текста в модальное окно, нужно:
-<p>1) Завизать их на общий id и data-mo-id.
-<p>2) Выбрать анимацию в data-animation одну из (fadeAndPop/fade/none), если не указывать data-animation, то по умолчанию будет none.
+<div>
+	Что бы обвизать комплекс картинок\текста в модальное окно, нужно:</div>
+<ol>
+	<li>
+		Завизать их на общий id и data-mo-id.</li>
+	<li>
+		Выбрать анимацию в data-animation одну из (fadeAndPop/fade/none), если не указывать data-animation, то по умолчанию будет none.</li>
+</ol>
+
 
 Пример:
 
 <blockquote>
-	<a href="#" data-mo-id="1" data-animation="fadeAndPop">
-		Появление и скачек(fade pop)
-	</a>
-	<div id="1" class="mo">
-		<a class="close-mo">&#215;</a>
-			<h1>Заглавный текст</h1>
-			<p>просто текст для проверки модального окна(fadeAndPop)</p>
-	</div>
+<blockquote>
+	<div>
+		&lt;a href=&quot;#&quot; data-mo-id=&quot;1&quot; data-animation=&quot;fadeAndPop&quot;&gt;</div>
+	<div>
+		Появление и скачек(fade pop)</div>
+	<div>
+		&lt;/a&gt;</div>
+	<div>
+		&lt;div id=&quot;1&quot; class=&quot;mo&quot;&gt;</div>
+	<div>
+		&lt;a class=&quot;close-mo&quot;&gt;&amp;#215;&lt;/a&gt;</div>
+	<div>
+		&lt;h1&gt;Заглавный текст&lt;/h1&gt;</div>
+	<div>
+		&lt;p&gt;просто текст для проверки модального окна(fadeAndPop)&lt;/p&gt;</div>
+	<div>
+		&lt;/div&gt;</div>
+</blockquote>
+
 </blockquote>
